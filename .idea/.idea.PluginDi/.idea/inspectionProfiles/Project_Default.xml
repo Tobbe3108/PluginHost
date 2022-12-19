@@ -1,0 +1,35 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AlphaUnsortedPropertiesFile" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ComposeUnquotedPorts" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="DuplicatePropertyInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="EmptyDirectory" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="HtmlMissingClosingTag" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="HtmlNonExistentInternetResource" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="HtmlPresentationalElement" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="HttpUrlsUsage" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="InconsistentLineSeparators" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="IncorrectFormatting" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="LongLine" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ProblematicWhitespace" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="RegExpAnonymousGroup" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="RegExpEscapedMetaCharacter" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="RegExpOctalEscape" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="RegExpRedundantClassElement" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="RegExpSimplifiable" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="SpellCheckingInspection" enabled="true" level="INFORMATION" enabled_by_default="true">
+      <option name="processCode" value="true" />
+      <option name="processLiterals" value="true" />
+      <option name="processComments" value="true" />
+    </inspection_tool>
+    <inspection_tool class="SqlDialectInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="SqlGotoInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="SqlMissingColumnAliasesInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="SqlNamedArgumentsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="SqlNoDataSourceInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="TodoComment" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="UseEllipsisInPropertyInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="WrongPropertyKeyValueDelimiter" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>
